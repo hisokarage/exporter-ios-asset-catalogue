@@ -7,7 +7,7 @@
     "assets": [{
         "write_using": "asset_path.pr",
         "scale": "1x",
-        "format": "pdf",
+        "format": "svg",
         "type": "image"
     }]
 }
